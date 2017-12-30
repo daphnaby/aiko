@@ -5,7 +5,7 @@ Description: This is the AIKO theme created for the Genesis Framework.
 Author: Andrei Chira
 Author URI: http://fasterwp.com
 Template: genesis
-Template Version: 2.2.4
+Template Version: 2.2.5
 Tags: black, white, one-column, two-columns, three-columns, left-sidebar, right-sidebar, responsive-layout, custom-menu, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -214,9 +214,8 @@ body > div {
 body {
 	background-color: #fff;
 	color: #212121;
-	font-family: PT Sans, sans-serif;
+	font-family: PT Sans, Helvetica, Arial, sans-serif;
 	font-size: 20px;
-
 	font-size: 2rem;
 	-webkit-font-smoothing: antialiased;
 	font-weight: 400;
@@ -264,21 +263,6 @@ a:focus  {
 	color: #212121;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 p {
 	margin: 0 0 28px;
 	padding: 0;
@@ -307,9 +291,6 @@ hr {
 	margin: 1em 0;
 
 }
-
-
-
 
 b,
 strong {
@@ -349,7 +330,7 @@ h4,
 h5,
 h6 {
 	color: #000;
-	font-family: PT Serif, Georgia, serif;
+	font-family: 'PT Serif', Georgia, serif;
 	font-weight: 700;
 	line-height: 1.2;
 	margin: 0 0 10px;
@@ -491,10 +472,6 @@ figure {
 .gallery img:focus {
 	border: 1px solid #999;
 }
-
-
-
-
 
 /* ## Forms
 --------------------------------------------- */
@@ -1608,8 +1585,9 @@ text-transform: uppercase;
 --------------------------------------------- */
 
 p.entry-meta {
-	font-size: 13px;
-	font-size: 1.3rem;
+	font-size: 12px;
+	font-size: 1.2rem;
+	font-weight: 700;
 	margin-bottom: 0;
 	color: #95a5a6;
 	letter-spacing: 1px;
