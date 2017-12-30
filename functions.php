@@ -17,7 +17,7 @@ include_once( get_stylesheet_directory() . '/lib/output.php' );
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'AIKO Theme' );
 define( 'CHILD_THEME_URL', 'https://fasterwp.com/downloads/aiko/' );
-define( 'CHILD_THEME_VERSION', '2.2.5' );
+define( 'CHILD_THEME_VERSION', '2.2.6' );
 
 //* Enqueue Scripts and Styles
 
