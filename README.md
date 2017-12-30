@@ -18,7 +18,7 @@ Activate the AIKO theme.
 
 ### Install and activate recommended plugins
 
-- Catch Ids (<https://github.com/WPPlugins/catch-ids/>)
+- Catch Ids
 - Genesis Bootstrap Carousel
 - Genesis eNews Extended
 - Genesis Simple Edits
@@ -27,7 +27,10 @@ Activate the AIKO theme.
 - Simple Social Icons
 - Widget Logic
 
-### Import demo content (aiko-demo-comtent.xml)
+### Import demo content
+
+You can find the demo content in the /xml folder (file name aiko-demo-content.xml).
+Inside your WordPress dashboard, go to Tools > Import, install WordPress Importer if necessary and the run the importer.
 
 ### Setup Genesis, widgets, carousel & all
 
