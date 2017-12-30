@@ -30,7 +30,7 @@ Activate the AIKO theme.
 ### Import demo content
 
 You can find the demo content in the /xml folder (file name aiko-demo-content.xml).
-Inside your WordPress dashboard, go to Tools > Import, install WordPress Importer if necessary and the run the importer.
+Inside your WordPress dashboard, go to Tools > Import, install WordPress Importer if necessary and run the importer.
 
 ### Setup Genesis, widgets, carousel & all
 
