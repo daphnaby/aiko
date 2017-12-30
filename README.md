@@ -18,21 +18,23 @@ Activate the AIKO theme.
 
 
 3. Install and activate recommended plugins:
-	- Catch Ids
-	- Genesis Bootstrap Carousel
-	- Genesis eNews Extended
-	- Genesis Simple Edits
-	- Genesis Title Toggle
-	- Simple Basic Contact Form
-	- Simple Social Icons
-	- Widget Logic
+	* Catch Ids
+	* Genesis Bootstrap Carousel
+	* Genesis eNews Extended
+	* Genesis Simple Edits
+	* Genesis Title Toggle
+	* Simple Basic Contact Form
+	* Simple Social Icons
+	* Widget Logic
 
-4. Import demo content (aiko-demo-comtent.xml)
+4. Import demo content (/xml/aiko-demo-comtent.xml)
 
 5. Setup Genesis, widgets, carousel & all
+
 Inside your WordPress dashboard, go to Genesis > Theme Settings and configure to your liking.
 Inside your WordPress dashboard, go to Genesis > Carousel Settings and configure to your liking.
 Inside your WordPress dashboard, go to Appearance > Widgets and configure to your liking.
 
-If you need help we can install and setup the theme for you for $29. Visit https://fasterwp.com/contact.
+If you need help we can install and setup the theme for you for $29. 
+Visit https://fasterwp.com/contact.
 
