@@ -65,7 +65,7 @@ add_theme_support( 'genesis-after-entry-widget-area' );
 
 //* Add new featured image size
 add_image_size( 'sidebar', 360, 175, TRUE );
-add_image_size( 'full', 880, 400, TRUE );
+add_image_size( 'blog-big', 880, 400, TRUE );
 add_image_size( 'home-featured-4', 280, 160, TRUE );
 
 //* Rename primary and secondary navigation menus
